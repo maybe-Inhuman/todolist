@@ -12,12 +12,6 @@ Get the ToDo list app running locally in under a minute.
 - [uv](https://docs.astral.sh/uv/getting-started/installation/)
 - [Git](https://git-scm.com/)
 
-> [!TIP]
-> Don't have uv yet? Install it with:
-> ```bash
-> curl -LsSf https://astral.sh/uv/install.sh | sh
-> ```
-
 ## Installation
 
 **1. Clone the repository**
